@@ -1,0 +1,14 @@
+[
+  {
+    "contact": {"title": "AI Engineer Recruiter", "company": "Fictional Example Co"},
+    "recruiter_relevant": true
+  },
+  {
+    "contact": {"title": "Technical Recruiter", "company": "Fictional Example Co"},
+    "recruiter_relevant": false
+  },
+  {
+    "contact": {"title": "Software Engineer", "company": "Fictional AI Systems"},
+    "recruiter_relevant": false
+  }
+]
