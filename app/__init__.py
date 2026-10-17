@@ -1,0 +1,1 @@
+"""Recruiter outreach drafting application."""

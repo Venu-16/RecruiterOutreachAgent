@@ -1,0 +1,10 @@
+.venv/
+.env
+.env.*
+!.env.example
+data/input/
+data/output/
+__pycache__/
+.pytest_cache/
+*.sqlite3
+*.db
