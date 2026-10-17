@@ -1,0 +1,12 @@
+{
+  "name": "Casey Example",
+  "target_roles": [
+    "AI Engineer",
+    "Machine Learning Engineer",
+    "LLM Engineer",
+    "Python Developer"
+  ],
+  "verified_facts": [
+    "built a fictional local document classification demo for this sample"
+  ]
+}
